@@ -1,5 +1,5 @@
 {
-  "name":"my testlist"，
+  "name":"my testlist",
   "version":"0.1.0",
   "description":"Management my everyday task lists.",
   "browser_action":{
